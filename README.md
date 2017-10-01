@@ -16,4 +16,4 @@
 [Configuring the development environment](https://stackoverflow.com/questions/28995358/getting-project-facet-java-version-1-8-is-not-supported-in-eclipse-luna)
 
 ### University Work for WEB Development Lab Discipline (2015).
-Thanks to the teacher Carlos Alberto Soares Ribeiro!
+Thanks to the teacher [Carlos Alberto Soares Ribeiro](http://www.ic.uff.br/index.php/pt/pessoas/168-docente?docente=14)!
